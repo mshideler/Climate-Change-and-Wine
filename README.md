@@ -1,7 +1,4 @@
-# Climate-Change-and-Wine
-
-# **Winos**  :wine_glass:
-
+# Climate Change and Wine  :wine_glass:
 
 
 ## Overview of final project 
