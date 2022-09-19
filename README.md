@@ -3,7 +3,7 @@
 
 ## Overview of final project 
 
-The topic of this project is predicting the quality of wine based on environmental factors such as geography, temperature and rainfall. Climate change is expected to have a dramatic impact on these variables in the future and as enthusiastic wine drinkers, we hope to learn if this will have an impact on our preferred wine growing regions. Specifically we hope to learn:
+The topic of this project is predicting the quality of wine based on environmental factors such as geography, temperature and rainfall. Climate change is expected to have a dramatic impact on these variables in the future and as enthusiastic wine drinkers, my team and I hope to learn if this will have an impact on our preferred wine growing regions. Specifically we hope to learn:
 
 
 ###### *Questions to Answer*
